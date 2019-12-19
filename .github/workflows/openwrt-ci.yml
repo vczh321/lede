@@ -148,21 +148,20 @@ jobs:
           CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_ShadowsocksR_Socks=y
           CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_V2ray=y
           #N
-          CONFIG_PACKAGE_luci-app-adbyby-plus=n
-          CONFIG_PACKAGE_luci-app-accesscontrol=n
-          CONFIG_PACKAGE_luci-app-ddns=n
-          CONFIG_PACKAGE_luci-app-wifischedule=n
-          CONFIG_PACKAGE_luci-app-wol=n
-          CONFIG_PACKAGE_luci-app-xlnetacc=n
-          CONFIG_PACKAGE_luci-app-vlmcsd=n
-          CONFIG_PACKAGE_luci-app-usb-printer=n
-          CONFIG_PACKAGE_luci-app-vsftpd=n                  
-          CONFIG_PACKAGE_luci-app-ipsec-vpnd=n
-          CONFIG_PACKAGE_luci-app-zerotier=n
-          CONFIG_PACKAGE_luci-app-sqm=n
-          
-          CONFIG_DEFAULT_luci-app-samba4=n
-          CONFIG_DEFAULT_luci-app-samba=n
+          CONFIG_PACKAGE_luci-app-adbyby-plus is not set
+          CONFIG_PACKAGE_luci-app-accesscontrol is not set
+          CONFIG_PACKAGE_luci-app-ddns is not set
+          CONFIG_PACKAGE_luci-app-wifischedule is not set
+          CONFIG_PACKAGE_luci-app-wol is not set
+          CONFIG_PACKAGE_luci-app-xlnetacc is not set
+          CONFIG_PACKAGE_luci-app-vlmcsd is not set
+          CONFIG_PACKAGE_luci-app-usb-printer is not set
+          CONFIG_PACKAGE_luci-app-vsftpd is not set               
+          CONFIG_PACKAGE_luci-app-ipsec-vpnd is not set
+          CONFIG_PACKAGE_luci-app-zerotier is not set
+          CONFIG_PACKAGE_luci-app-sqm is not set
+          CONFIG_DEFAULT_luci-app-samba4 is not set
+          CONFIG_DEFAULT_luci-app-samba is not set
           
           # add app
           # CONFIG_PACKAGE_luci-app-adbyby-plus=y
