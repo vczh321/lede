@@ -156,12 +156,13 @@ jobs:
           CONFIG_PACKAGE_luci-app-xlnetacc=n
           CONFIG_PACKAGE_luci-app-vlmcsd=n
           CONFIG_PACKAGE_luci-app-usb-printer=n
-          CONFIG_PACKAGE_luci-app-vsftpd=n
-          CONFIG_PACKAGE_luci-app-samba4=n
+          CONFIG_PACKAGE_luci-app-vsftpd=n                  
           CONFIG_PACKAGE_luci-app-ipsec-vpnd=n
           CONFIG_PACKAGE_luci-app-zerotier=n
           CONFIG_PACKAGE_luci-app-sqm=n
           
+          CONFIG_DEFAULT_luci-app-samba4=n
+          CONFIG_DEFAULT_luci-app-samba=n
           
           # add app
           # CONFIG_PACKAGE_luci-app-adbyby-plus=y
