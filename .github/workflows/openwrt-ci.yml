@@ -160,9 +160,13 @@ jobs:
           # CONFIG_PACKAGE_luci-app-ipsec-vpnd is not set
           # CONFIG_PACKAGE_luci-app-zerotier is not set
           # CONFIG_PACKAGE_luci-app-sqm is not set
+          # CONFIG_PACKAGE_luci-app-unblockmusic is not set
+          # CONFIG_PACKAGE_luci-app-qbittorrent is not set
+          # CONFIG_PACKAGE_luci-app-v2ray-server is not set
           
-          # CONFIG_DEFAULT_luci-app-samba4 is not set
-          # CONFIG_DEFAULT_luci-app-samba is not set
+          # CONFIG_PACKAGE_luci-app-samba is not set
+          # CONFIG_PACKAGE_luci-app-samba4 is not set
+          # CONFIG_PACKAGE_samba36-server is not set
           
           # add app
           # CONFIG_PACKAGE_luci-app-adbyby-plus=y
